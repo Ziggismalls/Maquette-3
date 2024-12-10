@@ -19,6 +19,9 @@
 }
 
 .contactsocial i {
+  display: flex;
+  justify-content: center;
+  width: 20px;
   background-color: #3b1d0f;
   padding: 10px;
   font-size: 20px;
