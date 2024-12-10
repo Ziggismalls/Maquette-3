@@ -47,11 +47,11 @@ li {
   align-items: center;
   height: 100%;
   width: 160px;
-  border-bottom: 5px solid transparent;
+  border-bottom: 10px solid transparent;
 }
 li:hover {
   background-color: #3b1d0f;
-  border-bottom: 5px solid white;
+  border-bottom: 10px solid white;
 }
 ul {
   overflow: hidden;
